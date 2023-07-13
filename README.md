@@ -1,4 +1,4 @@
-# mygitprofile
+
 <img align="auto" alt="Coding" width="1000" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBkZDVycXU0aDVreTE0d2lsbGVzcnlrbjl2d3I2dDc4cjFuYXo3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abvUZvVPRpm3ueY/giphy.gif">
 <h1 align="center">Greetings! My name is Parthiv Manoj</h1>
 <h3 align="center">I am an enthusiastic computer science undergraduate currently pursuing my studies.</h3>
