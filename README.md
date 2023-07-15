@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Flask**
 
-- 📫 How to reach me **https://www.instagram.com/masterdarkk93/**
+- 📫 How to reach me **parthivmanoj15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
