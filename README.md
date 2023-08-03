@@ -1,7 +1,7 @@
 
 <img align="auto" alt="Coding" width="1000" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHBkZDVycXU0aDVreTE0d2lsbGVzcnlrbjl2d3I2dDc4cjFuYXo3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abvUZvVPRpm3ueY/giphy.gif">
 <h1 align="center">Greetings! My name is Parthiv Manoj</h1>
-<h3 align="center">I am an enthusiastic computer science undergraduate currently pursuing my studies at Kochi.</h3>
+<h3 align="center">I am an enthusiastic undergraduate studying computer science at Kochi</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiv93&label=Profile%20views&color=0e75b6&style=flat" alt="parthiv93" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack, Flask**
