@@ -1,5 +1,4 @@
 # Hi, I’m Parthiv
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiv93&label=Profile%20views&color=0e75b6&style=flat" alt="parthiv93" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
