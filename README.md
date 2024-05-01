@@ -18,5 +18,10 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=parthiv93&show_icons=true&locale=en&theme=transparent" alt="parthiv93" /></p>
 
 [![An image of @parthiv93's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parthiv93)](https://holopin.io/@parthiv93)
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
                                                                                                                                                                
 
